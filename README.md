@@ -1,5 +1,7 @@
 # File Sharing Protocol
 <br />
+Read Assignment2.pdf for problem statement
+<br />
 To run:<br />
 1) ./run.sh<br />
 2) ./server-client1<br />
